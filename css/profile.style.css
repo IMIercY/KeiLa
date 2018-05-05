@@ -1,0 +1,30 @@
+.profile
+{
+    text-align: center;
+}
+.profile-button
+{
+    /*align-self: flex-end;*/
+}
+.profile-info-item
+{
+    width: 25px;
+    height: 25px;
+}
+.profile-info
+{
+    text-align: center;
+}
+td
+{
+    border-bottom: 1px solid #ddd;
+    height: 40px;
+    width: 80px;
+}
+.te{
+    max-width : 150px;
+}
+#profile-user-info-item
+{
+    vertical-align: bottom;
+}

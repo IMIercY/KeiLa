@@ -1,0 +1,37 @@
+.container
+{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.auth_user
+{
+    height: 450px;
+    padding: 3%;
+    background: #0db8b9;
+    border: solid #0db8b9;
+    border-radius: 35px 1px 35px 1px;
+}
+.form-group input
+{
+    border-style: solid;
+    border-left-width: 40px;
+}
+.app_title
+{
+    text-align: center;
+    color: #FFFFFF;
+    font-style: inherit;
+    font-size: 250%;
+    margin-bottom: 5%;
+}
+.btn_auth
+{
+    margin-top: 15%;
+}
+#btn_signup:hover , #btn_login:hover
+{
+    background: #5672b9;
+    color: white;
+}
